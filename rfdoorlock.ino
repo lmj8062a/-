@@ -1,3 +1,5 @@
+//miguelbalboa 개발자님의 카드 복제 오픈 소스를 사용했습니다.
+//(miguelbalboa 개발자님의 카드 복제 오픈 소스: https://github.com/miguelbalboa/rfid/blob/master/examples/ChangeUID/ChangeUID.ino)
 #include <Wire.h> 
 #include <LiquidCrystal_I2C.h>
 #include <SPI.h>
